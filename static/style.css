@@ -1,0 +1,10 @@
+.line {
+  fill: none;
+  stroke: #000;
+  stroke-width: 1.5px;
+}
+
+#kpi span {
+	font-size:100px;
+	color:#333;
+}
